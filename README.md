@@ -44,9 +44,7 @@ My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS de
 
 :house: Working from home
 
-:tool:
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+:man_technologist: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Next.Js](https://img.shields.io/badge/Next.Js-000000?style=flat-square&logo=Next.Js&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-CC6699?style=flat-square&logo=styled-components&logoColor=white)
 ![Apollo GraphQl](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
