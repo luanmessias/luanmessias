@@ -55,7 +55,7 @@ My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS de
 
 ---
 ### :octocat: Last personal projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luanmessias&repo=valorant-game-interface)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luanmessias&repo=valorant-game-interface)](https://github.com/luanmessias/github-readme-stats)
 
 
 ---
