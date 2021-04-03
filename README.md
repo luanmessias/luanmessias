@@ -1,17 +1,17 @@
 
-### 👋 Hello There!
 ---
+### 👋 Hello There!
 My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS developer focused on implementing responsive web interfaces using NextJS, GraphQL and Styled Components.
 
-### 🚀 Current Goals
 ---
+### 🚀 Current Goals
 - Master React & React-Native skills
 - Master Jamstack
 
 
 
-### 💻  Skills & Tools
 ---
+### 💻  Skills & Tools
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -38,8 +38,8 @@ My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS de
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### :office: Current Working company
 ---
+### :office: Current Working company
 :office: Repassa
 
 :house: Working from home
@@ -52,13 +52,13 @@ My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS de
 
 
 
-### :octocat: Last personal projects
 ---
+### :octocat: Last personal projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luanmessias&repo=valorant-game-interface)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### My Github Stats
 ---
+### My Github Stats
 
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmessias&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true)](https://github.com/luanmessias/github-readme-stats-1)
