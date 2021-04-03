@@ -1,5 +1,4 @@
 
----
 ### 👋 Hello There!
 My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS developer focused on implementing responsive web interfaces using NextJS, GraphQL and Styled Components.
 
@@ -68,8 +67,8 @@ My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS de
 
 <p align="left">
   <a href="https://github.com/luanmessias">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanmessias&count_private=true&show_icons=true&theme=graywhite&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanmessias&hide=css,hack,java,html&layout=compact&langs_count=8&theme=graywhite"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luanmessias&count_private=true&show_icons=true&theme=graywhite&&include_all_commits=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanmessias&hide=css,hack,java,html&layout=compact&langs_count=8&theme=graywhite"/>
   </a>
 </p>
 
