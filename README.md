@@ -65,15 +65,12 @@ My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS de
 
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmessias&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true)](https://github.com/luanmessias/github-readme-stats-1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmessias&hide=html,css,javascript)](https://github.com/luanmessias/github-readme-stats-1)-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmessias&hide=html,css,javascript)](https://github.com/luanmessias/github-readme-stats-1)
+-->
 <p align="left">
   <a href="https://github.com/luanmessias">
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luanmessias&count_private=true&show_icons=true&theme=graywhite&&include_all_commits=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanmessias&hide=css,hack,java,html&layout=compact&langs_count=8&theme=graywhite"/>
-  </a>
 </p>
-
 
 
 
