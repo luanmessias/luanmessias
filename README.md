@@ -71,10 +71,10 @@ My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS de
 -->
 <p align="left">
   <a href="https://github.com/luanmessias">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luanmessias&count_private=true&show_icons=true&theme=graywhite&&include_all_commits=true"/>
+    <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=luanmessias&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true"/>
   </a>
   <a href="https://github.com/luanmessias">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmessias&hide=html,css"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmessias&theme=dracula&hide=html,css"/>
   </a>
 </p>
 
