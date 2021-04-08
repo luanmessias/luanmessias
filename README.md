@@ -2,9 +2,9 @@
 ### 👋 Hello There!
 My name is Luan Messias, I am a frontend developer.
 Today I work as a ReactJS developer focused on implementing responsive web interfaces using NextJS, GraphQL and Styled Components.
-
-![LinkedIn](https://img.shields.io/badge/Luan_Messias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
+ <a href="https://linkedin.com/in/luanmessias">
+! [LinkedIn](https://img.shields.io/badge/Luan_Messias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
 ---
 ### 🚀 Current Goals
 - Master React & React-Native skills
