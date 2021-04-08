@@ -39,6 +39,7 @@ My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS de
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+<!--
 ---
 ### :office: Current Working company
 :office: Repassa | React Frontend developer
@@ -53,6 +54,7 @@ My name is Luan Messias, I am a frontend developer. Today I work as a ReactJS de
 ![Apollo GraphQl](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=Ant-Design&logoColor=white)
 
+-->
 
 
 ---
