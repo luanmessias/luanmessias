@@ -11,7 +11,6 @@ My name is Luan Messias, I am a frontend developer and today I work focused on i
 ### 🚀 Current Goals
 - Master React & React-Native skills
 - Master VueJs skills
-- Master Jamstack
 
 
 ---
