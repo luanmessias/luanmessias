@@ -7,13 +7,7 @@ My name is Luan Messias, I am a Front End developer and today I work focused on 
  <img src='https://img.shields.io/badge/Luan_Messias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' />
 </a>
 
----
-### 🚀 Current Goals
-- Master React & React-Native skills
-- Master VueJs skills
 
-
----
 ### 💻  Skills & Tools
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
