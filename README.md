@@ -62,9 +62,11 @@ My name is Luan Messias, I am a Front End developer and today I work focused on 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmessias&hide=html,css,javascript)](https://github.com/luanmessias/github-readme-stats-1)
 -->
 <p align="left">
+ <!--
   <a href="https://github.com/luanmessias">
     <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=luanmessias&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true"/>
   </a>
+-->
   <a href="https://github.com/luanmessias">
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmessias&theme=dracula&hide=html,css"/>
   </a>
