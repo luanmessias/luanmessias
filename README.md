@@ -38,7 +38,7 @@ A personal project to document my 15-year coding journey.
 * **Status:** Building the core architecture (Stealth Mode).
 
 **🌱 Studying**
-Advanced React Patterns, System Design & Godot Engine (Game Dev).
+Advanced React Patterns and System Design 
 
 ---
 
@@ -85,9 +85,3 @@ I focus on writing reliable and scalable software, regardless of the framework.
   </tbody>
 </table>
 
----
-
-### 📊 Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=luanmessias&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmessias&layout=compact&hide_border=true&hide=html,css&title_color=0077B5"/>
