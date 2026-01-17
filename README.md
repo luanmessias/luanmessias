@@ -1,7 +1,5 @@
 # Luan Messias
 ### Frontend Developer
-
-Based in **Braga, Portugal 🇵🇹** • **Italian Citizen (EU) 🇮🇹**
 > *"Building scalable interfaces since the Flash/FTP days."*
 
 <a href="https://linkedin.com/in/luanmessias">
