@@ -76,6 +76,3 @@ My approach: *"Detect early, fix quickly, automate reliably."*
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luanmessias&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide=contribs" />
-</div>
