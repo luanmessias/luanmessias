@@ -1,6 +1,6 @@
 # Luan Messias
-### QA Automation Engineer | Senior Frontend Background
-> *"Using 15 years of development experience to build unbreakable testing architectures."*
+### QA Analyst & Automation Engineer
+> *"Quality is not an act, it is a habit. Blending technical skills with a detail-oriented mindset."*
 
 <a href="https://linkedin.com/in/luanmessias">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -13,36 +13,35 @@
 
 ### 🚀 About Me
 
-I am a **QA Automation Engineer** with a strong differentiator: **15 years of experience as a Frontend Developer** (working on high-traffic applications at companies like **Rakuten** and **LuizaLabs**).
+I am a **QA Engineer** based in **Portugal 🇵🇹**, passionate about delivering bug-free software.
 
-Recently, I made a life-changing move to **Europe (Portugal)** 🇵🇹. With this shift, I pivoted my career to focus entirely on **Software Quality & Automation**. I apply my deep engineering background to write clean, maintainable test code and build robust CI/CD pipelines that developers actually love to use.
+After years working in software development, I realized that my true strength lies in **Quality Assurance**. I pivoted my career to focus on preventing defects, improving user experience, and building reliable automation.
+I bring a unique balance: I have the **technical skills** (Playwright/JS) to automate complex workflows, but I also value the importance of **Manual Testing** and **Analysis** to catch what scripts miss.
 
 ---
 
 ### 🔭 Current Focus (The Lab)
 
-**💸 Buckify (QA Laboratory & Financial App)**
-A Fullstack Financial Management app built to serve as a real-world target for advanced automation patterns.
-* **Goal:** A playground to implement E2E tests, AI-driven workflows, and CI/CD strategies.
+**💸 Buckify (Automation Sandbox)**
+A personal project used as a laboratory to practice advanced QA patterns.
+* **Goal:** Demonstrate E2E testing scenarios, API validation, and CI/CD integration.
 * **The Stack:**
   ![Playwright](https://img.shields.io/badge/Playwright-181717?style=flat-square&logo=playwright&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&logo=github-actions&logoColor=white)
   ![Vitest](https://img.shields.io/badge/Vitest-181717?style=flat-square&logo=vitest&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=next.js&logoColor=white)
-  ![Gemini AI](https://img.shields.io/badge/Google_Gemini-181717?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
 ### 🛠️ Tech Stack & Expertise
 
-My approach: *"Test like a user, code like a developer."*
+My approach: *"Detect early, fix quickly, automate reliably."*
 
 <table>
   <thead>
     <tr>
-      <th width="30%">QA & Automation (Focus)</th>
-      <th width="25%">Core Engineering</th>
-      <th width="25%">Dev Background</th>
+      <th width="30%">QA Automation</th>
+      <th width="25%">Manual & Process</th>
+      <th width="25%">Code & Scripting</th>
       <th width="20%">Tools & DevOps</th>
     </tr>
   </thead>
@@ -51,27 +50,25 @@ My approach: *"Test like a user, code like a developer."*
       <td valign="top">
         <img src="https://img.shields.io/badge/Playwright-181717?style=flat-square&logo=playwright&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Cypress-181717?style=flat-square&logo=cypress&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Vitest-181717?style=flat-square&logo=vitest&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Jest-181717?style=flat-square&logo=jest&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Testing_Library-181717?style=flat-square&logo=testing-library&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-181717?style=flat-square&logo=selenium&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Vitest-181717?style=flat-square&logo=vitest&logoColor=white" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Manual_Testing-181717?style=flat-square&logo=checkmarx&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Agile-181717?style=flat-square&logo=scrumalliance&logoColor=white" />
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/GraphQL-181717?style=flat-square&logo=graphql&logoColor=white" />
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=next.js&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Vue.js-181717?style=flat-square&logo=vue.js&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Redux-181717?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-181717?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=white" />
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&logo=github-actions&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Firebase-181717?style=flat-square&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
       </td>
     </tr>
   </tbody>
@@ -80,5 +77,5 @@ My approach: *"Test like a user, code like a developer."*
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luanmessias&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luanmessias&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide=contribs" />
 </div>
