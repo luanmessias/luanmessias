@@ -1,7 +1,5 @@
 # Luan Messias
-### QA Analyst & Automation Engineer
-> *"Quality is not an act, it is a habit. Blending technical skills with a detail-oriented mindset."*
-
+### QA Engineer | Frontend Developer
 <a href="https://linkedin.com/in/luanmessias">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
@@ -10,15 +8,6 @@
 </a>
 
 <br />
-
-### 🚀 About Me
-
-I am a **QA Engineer** based in **Portugal 🇵🇹**, passionate about delivering bug-free software.
-
-After years working in software development, I realized that my true strength lies in **Quality Assurance**. I pivoted my career to focus on preventing defects, improving user experience, and building reliable automation.
-I bring a unique balance: I have the **technical skills** (Playwright/JS) to automate complex workflows, but I also value the importance of **Manual Testing** and **Analysis** to catch what scripts miss.
-
----
 
 ### 🔭 Current Focus (The Lab)
 
