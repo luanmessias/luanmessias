@@ -1,5 +1,5 @@
 # Luan Messias
-### QA Engineer | Frontend Developer
+### Frontend Developer
 <a href="https://linkedin.com/in/luanmessias">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
